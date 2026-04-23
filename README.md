@@ -13,17 +13,17 @@ I focus on building practical, real-world applications and continuously improvin
 
 ## Projects
 
-### Student Management System
-A Web-application designed to manage student records, including adding, updating, and retrieving student information.
+- **Student Management System** – [GitHub](https://github.com/sarthak-official/Student-Management-System)  
+  A Web-application designed to manage student records, including adding, updating, and retrieving student information.
 
-### Library Management System
-A Python-based system for managing books, users, and issue/return operations efficiently.
+- **Library Management System** – [GitHub](https://github.com/sarthak-official/Library-Management-python)  
+  Python Console-based system for managing books, users, and issue/return operations efficiently.
 
-### Smart Expense Splitter
-A web application that helps users split expenses and calculate balances within a group.
+- **Smart Expense Splitter** – [Live Demo](https://sarthak-official.github.io/Smart-Expense-Splitter/)  
+  Web app to split expenses and calculate balances.
 
-### Portfolio Website
-A personal website to showcase my projects, skills, and development work.
+- **Portfolio Website** – [Live Demo](https://sarthakghodake-portfolio.netlify.app/)  
+  Personal website to showcase my work.
 
 ---
 
