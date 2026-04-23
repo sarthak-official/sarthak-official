@@ -11,22 +11,18 @@ I focus on building practical, real-world applications and continuously improvin
 
 ---
 
-Projects
+## Projects
 
-Student Management System
-
+### Student Management System
 A Web-application designed to manage student records, including adding, updating, and retrieving student information.
 
-Library Management System
-
+### Library Management System
 A Python-based system for managing books, users, and issue/return operations efficiently.
 
-Smart Expense Splitter
-
+### Smart Expense Splitter
 A web application that helps users split expenses and calculate balances within a group.
 
-Portfolio Website
-
+### Portfolio Website
 A personal website to showcase my projects, skills, and development work.
 
 ---
