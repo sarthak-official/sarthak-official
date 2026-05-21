@@ -15,6 +15,9 @@ I focus on building practical, real-world applications and continuously improvin
 
 - **Student Management System** – [GitHub](https://github.com/sarthak-official/Student-Management-System)  
   A Web-application designed to manage student records, including adding, updating, and retrieving student information.
+  
+- **Nexthak** – [GitHub](https://github.com/sarthak-official/nexthak)  
+  Practice mock tests, improve skills, and track your performance with Nexthak.
 
 - **Library Management System** – [GitHub](https://github.com/sarthak-official/Library-Management-python)  
   Python Console-based system for managing books, users, and issue/return operations efficiently.
