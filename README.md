@@ -1,53 +1,85 @@
-**Sarthak Ghodake**
+# Hi there 👋, I'm Sarthak Ghodake
+
+## 👨‍💻 About Me
+
+I am a B.Sc. Computer Science student passionate about Full-Stack Development and Cloud Computing. I enjoy building practical web applications, exploring modern technologies, and continuously improving my software development skills.
+
+- 🎓 B.Sc. Computer Science Student
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 💻 Skilled in Java, Python, and Web Technologies
+- 🚀 Interested in Full-Stack Development and Cloud Computing
+- 📚 Always learning and building real-world projects
 
 ---
 
-I am a Computer Science student with a strong interest in Full Stack Development.
-I focus on building practical, real-world applications and continuously improving my problem-solving and development skills.
+## 🚀 Projects
 
-- Aspiring Full Stack Developer
-- Skilled in Java, Python, and Web Technologies
-- Interested in developing scalable and user-friendly applications
+### 📘 NextHak – Mock Test Platform
+🔗 GitHub: https://github.com/sarthak-official/nexthak
 
----
-
-## Projects
-
-- **Student Management System** – [GitHub](https://github.com/sarthak-official/Student-Management-System)  
-  A Web-application designed to manage student records, including adding, updating, and retrieving student information.
-  
-- **Nexthak** – [GitHub](https://github.com/sarthak-official/nexthak)  
-  Practice mock tests, improve skills, and track your performance with Nexthak.
-
-- **Library Management System** – [GitHub](https://github.com/sarthak-official/Library-Management-python)  
-  Python Console-based system for managing books, users, and issue/return operations efficiently.
-
-- **Smart Expense Splitter** – [Live Demo](https://sarthak-official.github.io/Smart-Expense-Splitter/)  
-  Web app to split expenses and calculate balances.
-
-- **Portfolio Website** – [Live Demo](https://sarthakghodake-portfolio.netlify.app/)  
-  Personal website to showcase my work.
+A responsive online mock test platform built with HTML, CSS, JavaScript, and JSON. It features timed mock tests, randomized questions, question and option shuffling, instant score calculation, detailed answer explanations, and performance tracking.
 
 ---
 
-Technical Skills
+### 💰 Smart Expense Splitter
+🔗 Live Demo: https://sarthak-official.github.io/Smart-Expense-Splitter/
 
-Programming Languages
-Java, Python, C, C++
-
-Web Development
-HTML, CSS, JavaScript
-
-Database
-MySQL, Oracle
-
-Tools & Technologies
-Git, GitHub, VS Code, Eclipse
+A responsive web application that enables users to split expenses, calculate balances automatically, and simplify group expense management.
 
 ---
 
-Contact
+### 🌐 Portfolio Website
+🔗 Live Demo: https://sarthakghodake-portfolio.netlify.app/
 
-Email: sarthakghodake00@gmail.com
+A modern portfolio website showcasing my skills, certifications, projects, and development journey.
 
-LinkedIn: https://www.linkedin.com/in/sarthak-ghodake-346b42323/
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+
+### Cloud
+- Microsoft Azure (AZ-900 Fundamentals)
+
+### Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- JDBC
+- JSP
+- Servlets
+
+### Database
+- MySQL
+- Oracle SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Apache Tomcat
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Java (Basic) – HackerRank
+- SQL (Basic) – HackerRank
+- Python (Basic) – HackerRank
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **sarthakghodake00@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/sarthak-ghodake-346b42323/
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
