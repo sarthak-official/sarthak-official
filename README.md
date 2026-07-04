@@ -15,7 +15,7 @@ I am a B.Sc. Computer Science student passionate about Full-Stack Development an
 ## 🚀 Projects
 
 ### 📘 NextHak – Mock Test Platform
-🔗 GitHub: https://github.com/sarthak-official/nexthak
+🔗 Live Demo: https://sarthak-official.github.io/nexthak/
 
 A responsive online mock test platform built with HTML, CSS, JavaScript, and JSON. It features timed mock tests, randomized questions, question and option shuffling, instant score calculation, detailed answer explanations, and performance tracking.
 
